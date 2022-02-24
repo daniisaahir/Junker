@@ -15,9 +15,9 @@ You can edit how many junk files you want to create by editing line 5
 
 Example 1:
 
-Line 5= for i in range(100000):
+Line 5= for i in range(10000):
 
-100000 junk files will be created
+10000 junk files will be created
 
 Example 2:
 
